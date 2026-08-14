@@ -1,11 +1,11 @@
 <!-- ============================================================
-     TILAK KUMAR // D3V1L96 // ALIVE TERMINAL v5.0
-     Upload tilak.jpg to this repo before using this README
+     TILAK KUMAR // D3V1L96 // ALIVE TERMINAL v6.0
+     Upload tilak.jpg to this repo before using
      ============================================================ -->
 
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a00,100:000000&height=60&section=header&text=%E2%96%88+TILAK.SEC+MAINFRAME+v5.0+%E2%96%88+SESSION+ACTIVE+%E2%96%88&fontSize=16&fontColor=00FF41&fontAlignY=50&animation=scaleIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a00,100:000000&height=60&section=header&text=%E2%96%88+TILAK.SEC+MAINFRAME+v6.0+%E2%96%88+SESSION+ACTIVE+%E2%96%88&fontSize=16&fontColor=00FF41&fontAlignY=50&animation=scaleIn" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -112,7 +112,73 @@
 <br>
 
 <!-- ============================================================
-     SKILL BARS - Live rendered images
+     SOCIAL MEDIA LINKS - TERMINAL STYLE
+     ============================================================ -->
+<pre align="center">
+┌─────────────────────────────────────────────────────────────────────────┐
+│  root@tilak-mainframe:~# cat /etc/social_channels.conf                  │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  # Established communication channels                                   │
+│  # All channels are OPEN and MONITORED                                  │
+│                                                                         │
+│  [GITHUB]                                                               │
+│    handle   = D3V1L96                                                   │
+│    url      = https://github.com/D3V1L96                                │
+│    status   = ACTIVE | 7+ repos | growing                               │
+│    connect  = ssh git@github.com:D3V1L96.git                            │
+│                                                                         │
+│  [LINKEDIN]                                                             │
+│    handle   = tilak-kumar-security                                      │
+│    url      = https://linkedin.com/in/tilak-kumar-security              │
+│    status   = ACTIVE | 500+ connections | open to work                  │
+│    connect  = curl -X CONNECT linkedin.com/in/tilak-kumar-security      │
+│                                                                         │
+│  [EMAIL]                                                                │
+│    address  = tilakkumar4956@gmail.com                                  │
+│    pgp      = 0xTK96D3V1L                                               │
+│    status   = MONITORED | avg response &lt; 2h                            │
+│    connect  = echo "hire me" | mail tilakkumar4956@gmail.com            │
+│                                                                         │
+│  [PHONE]                                                                │
+│    number   = +91 92207 25303                                           │
+│    status   = AVAILABLE | IST timezone                                  │
+│    connect  = tel +919220725303                                         │
+│                                                                         │
+│  [LOCATION]                                                             │
+│    city     = Faridabad                                                 │
+│    state    = Haryana                                                   │
+│    country  = India                                                     │
+│    coords   = 28.4089 N, 77.3178 E                                     │
+│                                                                         │
+│  > Firewall rule: ALLOW all incoming recruiter traffic                  │
+│  > NAT: Port forwarding enabled for opportunities                       │
+│                                                                         │
+│  root@tilak-mainframe:~# █                                              │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+<!-- CLICKABLE SOCIAL BUTTONS -->
+<p align="center">
+  <a href="https://github.com/D3V1L96">
+    <img src="https://img.shields.io/badge/GITHUB-D3V1L96-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/tilak-kumar-security/">
+    <img src="https://img.shields.io/badge/LINKEDIN-TILAK_KUMAR-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=000000" />
+  </a>
+  <a href="mailto:tilakkumar4956@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-tilakkumar4956@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=000000" />
+  </a>
+  <a href="tel:+919220725303">
+    <img src="https://img.shields.io/badge/PHONE-%2B91_92207_25303-00FF41?style=for-the-badge&logo=phone&logoColor=00FF41&labelColor=000000&color=000000" />
+  </a>
+</p>
+
+<br>
+
+<!-- ============================================================
+     SKILL BARS
      ============================================================ -->
 <p align="center"><img src="https://progress-bar.dev/90/?title=PYTHON&width=500&color=00FF41&suffix=%25&style=flat-square&labelColor=000000" /></p>
 <p align="center"><img src="https://progress-bar.dev/85/?title=LINUX+%2F+KALI&width=500&color=00FF41&suffix=%25&style=flat-square&labelColor=000000" /></p>
@@ -214,46 +280,6 @@
 <br>
 
 <!-- ============================================================
-     NETWORK CONNECTIONS
-     ============================================================ -->
-<pre align="center">
-┌─────────────────────────────────────────────────────────────────────────┐
-│  root@tilak-mainframe:~# ss -tulpn | grep ESTAB                         │
-├─────────────────────────────────────────────────────────────────────────┤
-│                                                                         │
-│  Netid   State    Local Address         Peer              Process       │
-│  -----   -----    -------------         ----              -------       │
-│                                                                         │
-│  tcp     ESTAB    EMAIL:443             gmail.com         mutt          │
-│          `-- tilakkumar4956@gmail.com                                   │
-│          `-- Status: ACCEPTING_MESSAGES                                 │
-│                                                                         │
-│  tcp     ESTAB    PHONE:5060            sip.provider      linphone      │
-│          `-- +91 92207 25303                                            │
-│          `-- Status: AVAILABLE_FOR_CALLS                                │
-│                                                                         │
-│  tcp     ESTAB    GEO:8080              geo.service       curl          │
-│          `-- Faridabad, Haryana, India                                  │
-│          `-- Coords: 28.4089N, 77.3178E                                │
-│                                                                         │
-│  tcp     ESTAB    GITHUB:443            github.com        git           │
-│          `-- github.com/D3V1L96                                         │
-│          `-- Repos: 7+ | Stars: Growing                                 │
-│                                                                         │
-│  tcp     ESTAB    LINKEDIN:443          linkedin.com      curl          │
-│          `-- linkedin.com/in/tilak-kumar-security                       │
-│          `-- Connections: 500+ | Open to work: YES                     │
-│                                                                         │
-│  Firewall: ALLOW all recruiter traffic                                  │
-│                                                                         │
-│  root@tilak-mainframe:~# █                                              │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-</pre>
-
-<br>
-
-<!-- ============================================================
      SYSTEM MONITOR
      ============================================================ -->
 <pre align="center">
@@ -285,7 +311,7 @@
 <br>
 
 <!-- ============================================================
-     INTERACTIVE BUTTONS
+     INTERACTIVE COMMAND BUTTONS
      ============================================================ -->
 <p align="center">
   <a href="https://github.com/D3V1L96?tab=repositories">
