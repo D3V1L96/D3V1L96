@@ -1,34 +1,39 @@
 <!-- 
   PROFILE: TILAK KUMAR | D3V1L96
   ROLE: AI ARCHITECT & CYBERSECURITY SPECIALIST
-  STATUS: OPEN FOR ELITE OPPORTUNITIES
 -->
 
 <div align="center">
 
-  <!-- 1. CINEMATIC HEADER WITH SMOOTH WAVE ANIMATION -->
+  <!-- 1. CINEMATIC HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=300&section=header&text=TILAK%20KUMAR&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=D3V1L96%20|%20AI%20ARCHITECT%20|%20SECURITY%20ENGINEER&descSize=24&descAlignY=65&descColor=38BDF8" width="100%" />
 
-  <!-- 2. PROFILE PHOTO WITH GLOWING NEON FRAME -->
+  <!-- 2. PROFILE PHOTO -->
   <br/>
   <img src="./tilak.jpg" alt="Tilak Kumar" width="200" height="200" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 0 25px rgba(56, 189, 248, 0.6);" />
   
   <br/><br/>
 
-  <!-- 3. ADVANCED HACKING TERMINAL (ANIMATED TYPING) -->
-  <!-- This creates a realistic typing effect of a security audit -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=10B981&background=0D1117&center=false&vCenter=false&width=800&height=350&lines=$+whoami+%26%26+echo+'---ACCESS+GRANTED---';>+Tilak+Kumar+%7C+AI+Engineer+%26+CyberSec+Specialist;>+Clearance:+ELITE+%7C+Status:+ACTIVE;$+cat+/etc/skills.json+%7C+jq+'.expertise';>+%5B"Artificial+Intelligence"+%2C+"Offensive+Security"+%2C+"OSINT"+%2C+"Full-Stack"%5D;$+nmap+-sS+-sV+-O+--script=vuln+target_infrastructure;>Starting+Nmap+7.94+(+https://nmap.org+);>PORT+++++STATE+SERVICE++VERSION;>22/tcp+++open++ssh++++++OpenSSH+8.9p1;>80/tcp+++open++http+++++Apache/2.4.52;>443/tcp++open++https++++nginx/1.24.0;>[!]+VULNERABILITY+DETECTED:+CVE-2024-XXXX;>[+]+Generating+exploit+mitigation+patch...;>[✓]+Patch+applied+successfully;$+python3+hex_core.py+--mode+devil+--target+analysis;>[*]+Initializing+HEX+Core+Engine+v3.0...;>[*]+Loading+Ollama+LLM+modules...;>[*]+Activating+Silero+TTS+(Hinglish+mode)...;>[!]+DEVIL+MODE+ACTIVATED+-+Interface:+BLOOD+RED;>[*]+Shodan+API+reconnaissance+initiated...;>[✓]+Analysis+complete.+47+threats+identified.$+_" alt="Hacking Terminal" />
+  <!-- 3. ANIMATED HACKING TERMINAL (OPTIMIZED) -->
+  <!-- Part 1: Identity & Skills -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=800&color=10B981&background=0D1117&center=false&vCenter=false&width=800&height=150&lines=$+whoami+%26%26+echo+'---ACCESS+GRANTED---';>+Tilak+Kumar+%7C+AI+Engineer+%26+CyberSec+Specialist;>+Clearance:+ELITE+%7C+Status:+ACTIVE;$+cat+/etc/skills.json+%7C+jq+'.expertise';>+%5B"AI"+%2C+"Security"+%2C+"OSINT"+%2C+"Full-Stack"%5D" alt="Terminal Part 1" />
+  
+  <!-- Part 2: Hacking Simulation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=800&color=10B981&background=0D1117&center=false&vCenter=false&width=800&height=150&lines=$+nmap+-sS+-sV+target_infrastructure;>PORT+++++STATE+SERVICE++VERSION;>22/tcp+++open++ssh++++++OpenSSH+8.9p1;>[!]+VULNERABILITY+DETECTED:+CVE-2024-XXXX;>[+]+Generating+exploit+mitigation+patch...;>[✓]+Patch+applied+successfully" alt="Terminal Part 2" />
+
+  <!-- Part 3: HEX Core Activation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=800&color=10B981&background=0D1117&center=false&vCenter=false&width=800&height=150&lines=$+python3+hex_core.py+--mode+devil;>[*]+Initializing+HEX+Core+Engine+v3.0...;>[*]+Loading+Ollama+LLM+modules...;>[!]+DEVIL+MODE+ACTIVATED+-+Interface:+BLOOD+RED;>[*]+Shodan+API+reconnaissance+initiated...;>[✓]+Analysis+complete.+47+threats+identified." alt="Terminal Part 3" />
 
   <br/>
 
-  <!-- 4. DYNAMIC VALUE PROPOSITION (ANIMATED TEXT) -->
+  <!-- 4. DYNAMIC VALUE PROPOSITION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Resilient+AI+Systems;Securing+Critical+Infrastructure;Automating+Complex+Workflows;Building+for+Global+Scale;Architecting+Privacy-First+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Resilient+AI+Systems;Securing+Critical+Infrastructure;Automating+Complex+Workflows;Building+for+Global+Scale" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- 5. PREMIUM STATUS & HIRE BADGES -->
+  <!-- 5. PREMIUM STATUS BADGES -->
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=D3V1L96&label=PROFILE_VIEWS&color=0E7490&style=for-the-badge" alt="Profile Views"/>
     <img src="https://img.shields.io/badge/STATUS-ELITE_OPERATOR-10B981?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Status"/>
@@ -46,8 +51,6 @@
 
 I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence & Machine Learning** with a dual focus on **Offensive Security** and **Intelligent Automation**. My work bridges the gap between theoretical AI models and production-ready, secure applications.
 
-I do not merely implement features; I engineer **ecosystems**. From local-first LLM assistants (**HEX**) to cinematic OSINT frameworks (**HOUND**), every project is designed with modularity, privacy-by-design principles, and international licensing compliance.
-
 ### ⚡ CORE COMPETENCIES MATRIX
 
 | DOMAIN | TECHNOLOGIES & FRAMEWORKS | BUSINESS IMPACT |
@@ -61,33 +64,21 @@ I do not merely implement features; I engineer **ecosystems**. From local-first 
 
 ## 🚀 FLAGSHIP PROJECTS: SYSTEMS IN PRODUCTION
 
-These projects demonstrate end-to-end ownership: from architectural design and coding to security auditing and deployment strategy.
-
 ### 1. HEX: LOCAL-FIRST AI AUTOMATION ENGINE
 *A modular, privacy-preserving desktop assistant powered by local Large Language Models.*
 
-*   **Problem Statement:** Cloud-dependent AI introduces latency, cost, and significant privacy risks for sensitive operations.
-*   **Technical Solution:**
-    *   **Core Engine:** Python-based orchestration layer integrating **Ollama** for local inference.
-    *   **Voice Interface:** Implemented **Silero TTS** for high-quality, offline natural language synthesis (supporting English/Hinglish contexts).
-    *   **Intelligence Layer:** Advanced NLP using `dateutil` for complex temporal parsing and intent recognition.
-    *   **Security Module:** Integrated **Shodan API** wrappers for authorized network reconnaissance.
-    *   **UI/UX:** Dynamic "Devil Mode" interface switching to blood-red themes for high-intensity tasks.
-*   **Architecture:** Hot-swappable skill modules allowing extension without core restarts.
-*   **License:** MIT License (Open Source)
+*   **Core Engine:** Python-based orchestration layer integrating **Ollama** for local inference.
+*   **Voice Interface:** Implemented **Silero TTS** for high-quality, offline natural language synthesis (supporting English/Hinglish contexts).
+*   **Security Module:** Integrated **Shodan API** wrappers for authorized network reconnaissance.
+*   **UI/UX:** Dynamic "Devil Mode" interface switching to blood-red themes for high-intensity tasks.
 *   **Repository:** [View Code](https://github.com/D3V1L96/HEX)
 
 ### 2. HOUND v2.0: CINEMATIC OSINT FRAMEWORK
 *A visually immersive, node-based intelligence gathering platform for lawful research.*
 
-*   **Problem Statement:** Traditional OSINT tools lack intuitive visualization, making correlation of disparate data points difficult.
-*   **Technical Solution:**
-    *   **Frontend:** Built with **React + TypeScript** for type safety and component reusability.
-    *   **Visualization:** Utilized **Three.js (React Three Fiber)** to render an interactive 3D wolf centerpiece surrounded by a responsive node network.
-    *   **Animation System:** Implemented **GSAP** and **Framer Motion** for deliberate, cinematic transitions.
-    *   **Performance:** Optimized via lazy-loading 3D scenes to ensure sub-second initial load times.
-*   **Visual Identity:** Dark, sophisticated palette (`#050816` background, `#38BDF8` accents) conveying authority.
-*   **License:** Apache-2.0 License (Enterprise Friendly)
+*   **Frontend:** Built with **React + TypeScript** for type safety and component reusability.
+*   **Visualization:** Utilized **Three.js (React Three Fiber)** to render an interactive 3D wolf centerpiece surrounded by a responsive node network.
+*   **Animation System:** Implemented **GSAP** and **Framer Motion** for deliberate, cinematic transitions.
 *   **Live Demo:** [Visit Site](https://d3v1l96.github.io/hound-v2/)
 
 ### 3. APPLIED MACHINE LEARNING SUITE
@@ -95,7 +86,6 @@ These projects demonstrate end-to-end ownership: from architectural design and c
 
 *   **Rice Disease Classifier:** CNN implementation using TensorFlow/Keras, achieving **94% accuracy** in identifying plant pathologies.
 *   **YouTube Sentiment Analysis:** NLP pipeline processing video comments to gauge public sentiment using LSTM/RNN architectures.
-*   **Impact:** Validates ability to handle real-world noisy data and deliver measurable business value through AI.
 
 ---
 
@@ -141,16 +131,6 @@ These projects demonstrate end-to-end ownership: from architectural design and c
     </tr>
   </table>
 </div>
-
----
-
-## 🛡️ ENGINEERING PRINCIPLES
-
-1.  **Privacy by Design:** Data minimization and local processing are default choices, not afterthoughts.
-2.  **Modular Architecture:** Systems are built as interchangeable components to facilitate scaling and maintenance.
-3.  **Security First:** Every line of code is reviewed with an attacker's mindset. Input validation and least-privilege access are enforced.
-4.  **Documentation Integrity:** Comprehensive READMEs, API docs, and license files are mandatory for all repositories.
-5.  **Continuous Iteration:** Feedback loops drive refinement. Deployment is frequent, tested, and reversible.
 
 ---
 
