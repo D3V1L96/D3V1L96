@@ -39,13 +39,13 @@
 
 ---
 
-## 🏛️ ARCHITECTURAL PHILOSOPHY
+##  ARCHITECTURAL PHILOSOPHY
 
 > *"Software is not just code; it is a contract between logic and reality. I build systems that honor that contract through security, scalability, and precision."*
 
 I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence & Machine Learning** with a dual focus on **Offensive Security** and **Intelligent Automation**. My work bridges the gap between theoretical AI models and production-ready, secure applications.
 
-### ⚡ CORE COMPETENCIES MATRIX
+###  CORE COMPETENCIES MATRIX
 
 | DOMAIN | TECHNOLOGIES & FRAMEWORKS | BUSINESS IMPACT |
 | :--- | :--- | :--- |
@@ -56,7 +56,7 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 
 ---
 
-## 🚀 FLAGSHIP PROJECTS: SYSTEMS IN PRODUCTION
+## FLAGSHIP PROJECTS: SYSTEMS IN PRODUCTION
 
 ### 1. HEX: LOCAL-FIRST AI AUTOMATION ENGINE
 *A modular, privacy-preserving desktop assistant powered by local Large Language Models.*
@@ -83,7 +83,7 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 
 ---
 
-## 🛠️ FULL TECH STACK ECOSYSTEM
+## FULL TECH STACK ECOSYSTEM
 
 <div align="center">
   
@@ -106,7 +106,7 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 
 ---
 
-## 📊 GITHUB ACTIVITY & CONSISTENCY
+## GITHUB ACTIVITY & CONSISTENCY
 
 <div align="center">
   <table>
