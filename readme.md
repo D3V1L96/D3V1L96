@@ -65,7 +65,7 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 *   **Voice Interface:** Implemented **Silero TTS** for high-quality, offline natural language synthesis (supporting English/Hinglish contexts).
 *   **Security Module:** Integrated **Shodan API** wrappers for authorized network reconnaissance.
 *   **UI/UX:** Dynamic "Devil Mode" interface switching to blood-red themes for high-intensity tasks.
-*   **Repository:** [View Code](https://github.com/D3V1L96/HEX)
+*   **Repository:** [View Code](https://github.com/D3V1L96)
 
 ### 2. HOUND v2.0: CINEMATIC OSINT FRAMEWORK
 *A visually immersive, node-based intelligence gathering platform for lawful research.*
@@ -73,7 +73,7 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 *   **Frontend:** Built with **React + TypeScript** for type safety and component reusability.
 *   **Visualization:** Utilized **Three.js (React Three Fiber)** to render an interactive 3D wolf centerpiece surrounded by a responsive node network.
 *   **Animation System:** Implemented **GSAP** and **Framer Motion** for deliberate, cinematic transitions.
-*   **Live Demo:** [Visit Site](https://d3v1l96.github.io/hound-v2/)
+*   **Live Demo:** [Visit Site](https://d3v1l96.github.io/Hound-osint/)
 
 ### 3. APPLIED MACHINE LEARNING SUITE
 *Demonstrated proficiency in data preprocessing, model training, and evaluation.*
@@ -128,14 +128,14 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 
 ---
 
-## 📡 PROFESSIONAL CONNECT
+## PROFESSIONAL CONNECT
 
 I am actively seeking opportunities to apply my skills in **AI Engineering**, **Cybersecurity**, and **Full-Stack Development**. Let's discuss how we can build resilient, intelligent systems together.
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilak-kumar-d3v1l96/)
-  [![Email](https://img.shields.io/badge/GMAIL-DIRECT_INQUIRY-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonikabhardwaj.aiml@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilak-kumar-security/)
+  [![Email](https://img.shields.io/badge/GMAIL-DIRECT_INQUIRY-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tilakkumar4946@gmail.com)
   [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://d3v1l96.github.io/portfolio/)
   [![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE_REPOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3V1L96)
 
