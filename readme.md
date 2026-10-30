@@ -1,33 +1,34 @@
 <!-- 
   PROFILE: TILAK KUMAR | D3V1L96
   ROLE: AI ARCHITECT & CYBERSECURITY SPECIALIST
+  THEME: NEURAL NETWORK / HARDCORE CYBERPUNK
 -->
 
 <div align="center">
 
-  <!-- 1. CINEMATIC HEADER WITH WAVE ANIMATION -->
+  <!-- 1. CINEMATIC HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=300&section=header&text=TILAK%20KUMAR&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=D3V1L96%20|%20AI%20ARCHITECT%20|%20SECURITY%20ENGINEER&descSize=24&descAlignY=65&descColor=38BDF8" width="100%" />
 
-  <!-- 2. PROFILE PHOTO WITH GLOWING NEON FRAME -->
+  <!-- 2. NEURAL NETWORK ASCII ART PROFILE (NEON STYLE) -->
+  <!-- Replacing static photo with dynamic AI-themed ASCII art -->
   <br/>
-  <img src="./tilak.jpg" alt="Tilak Kumar" width="200" height="200" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 0 25px rgba(56, 189, 248, 0.6);" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=0&color=38BDF8&background=000000&center=true&vCenter=true&width=600&height=150&lines=+++++++++++O+++++O++++++++++;+++++++++/+|+\+++/+|+\++++++++;++++++++O--+--O---+--O++++++++;+++++++/\++++++++++/\+++++++;++++++/++\++++++++/++\++++++;+++++O++++O++++++O++++O+++++;+++++|\++++|++++++|++++/|+++++;+++++O-+-[YOU]-+-O++++O+++++;+++++/+\++++/+\++++/+\++++++;++++O+++O+++O+++O+++O+++O++++;++++|+++++++++|+++++++++|+++++;++++O+++++++++O+++++++++O+++++" alt="Neural Network Profile" />
   
-  <br/><br/>
+  <br/>
 
-  <!-- 3. SINGLE POWERFUL ANIMATED TERMINAL BANNER -->
-  <!-- Simplified for 100% Loading Reliability -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=10B981&background=0D1117&center=true&vCenter=true&width=800&height=60&lines=SYSTEM+ACCESS:+GRANTED;+USER:+TILAK+KUMAR;+ROLE:+ELITE+OPERATOR;+STATUS:+READY+FOR+DEPLOYMENT" alt="System Status" />
+  <!-- 3. HARDCORE HACKING TERMINAL (ANIMATED) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=800&color=EF4444&background=0D1117&center=false&vCenter=false&width=800&height=200&lines=$+sudo+nmap+-sS+-sV+-O+--script=vuln+target_infrastructure;>Starting+Nmap+7.94+(+https://nmap.org+);>PORT+++++STATE+SERVICE++VERSION;>22/tcp+++open++ssh++++++OpenSSH+8.9p1;>80/tcp+++open++http+++++Apache/2.4.52;>[!]+CRITICAL+VULNERABILITY+DETECTED:+CVE-2024-XXXX;>[+]+Generating+exploit+mitigation+patch...;>[✓]+Patch+applied+successfully;$+python3+hex_core.py+--mode+devil+--target=analysis;>[*]+Initializing+HEX+Core+Engine+v3.0...;>[!]+DEVIL+MODE+ACTIVATED+-+Interface:+BLOOD+RED;>[*]+Shodan+API+reconnaissance+initiated...;>[✓]+Analysis+complete.+47+threats+neutralized." alt="Hacking Terminal" />
 
   <br/>
 
-  <!-- 4. DYNAMIC VALUE PROPOSITION (ANIMATED TEXT) -->
+  <!-- 4. DYNAMIC VALUE PROPOSITION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Resilient+AI+Systems;Securing+Critical+Infrastructure;Automating+Complex+Workflows;Building+for+Global+Scale;Architecting+Privacy-First+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Resilient+AI+Systems;Securing+Critical+Infrastructure;Automating+Complex+Workflows;Building+for+Global+Scale" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- 5. PREMIUM STATUS & HIRE BADGES -->
+  <!-- 5. PREMIUM STATUS BADGES -->
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=D3V1L96&label=PROFILE_VIEWS&color=0E7490&style=for-the-badge" alt="Profile Views"/>
     <img src="https://img.shields.io/badge/STATUS-ELITE_OPERATOR-10B981?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Status"/>
@@ -39,13 +40,13 @@
 
 ---
 
-##  ARCHITECTURAL PHILOSOPHY
+## 🏛️ ARCHITECTURAL PHILOSOPHY
 
 > *"Software is not just code; it is a contract between logic and reality. I build systems that honor that contract through security, scalability, and precision."*
 
 I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence & Machine Learning** with a dual focus on **Offensive Security** and **Intelligent Automation**. My work bridges the gap between theoretical AI models and production-ready, secure applications.
 
-###  CORE COMPETENCIES MATRIX
+### ⚡ CORE COMPETENCIES MATRIX
 
 | DOMAIN | TECHNOLOGIES & FRAMEWORKS | BUSINESS IMPACT |
 | :--- | :--- | :--- |
@@ -56,7 +57,7 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 
 ---
 
-## FLAGSHIP PROJECTS: SYSTEMS IN PRODUCTION
+## 🚀 FLAGSHIP PROJECTS: SYSTEMS IN PRODUCTION
 
 ### 1. HEX: LOCAL-FIRST AI AUTOMATION ENGINE
 *A modular, privacy-preserving desktop assistant powered by local Large Language Models.*
@@ -77,6 +78,7 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 *   **Performance Architecture:** Built with a high-concurrency backend to handle massive data streams, ensuring sub-second response times even during complex multi-vector investigations.
 *   **Live Demo:** [Visit Site](https://d3v1l96.github.io/Hound-osint/)
 *   **Repository:** [View Code](https://github.com/D3V1L96/Hound-osint.git)
+
 ### 3. APPLIED MACHINE LEARNING SUITE
 *Demonstrated proficiency in data preprocessing, model training, and evaluation.*
 
@@ -85,7 +87,7 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 
 ---
 
-## FULL TECH STACK ECOSYSTEM
+## 🛠️ FULL TECH STACK ECOSYSTEM
 
 <div align="center">
   
@@ -108,29 +110,37 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 
 ---
 
-## GITHUB ACTIVITY & CONSISTENCY
+## 📊 GITHUB ACTIVITY & CONSISTENCY
 
 <div align="center">
+  
+  <!-- MAIN STATS CARD -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D3V1L96&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=050816&title_color=38BDF8&icon_color=EF4444&text_color=e5e7eb" alt="GitHub Stats"/>
+  
+  <br/><br/>
+
+  <!-- TOP LANGUAGES & STREAK -->
   <table>
     <tr>
-      <td colspan="2">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=D3V1L96&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=050816&title_color=38BDF8&icon_color=EF4444&text_color=e5e7eb" alt="GitHub Stats"/>
-      </td>
-    </tr>
-    <tr>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3V1L96&layout=compact&hide_border=true&theme=radical&bg_color=050816&title_color=38BDF8&langs_count=8&text_color=e5e7eb" alt="Top Languages"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3V1L96&layout=compact&hide_border=true&theme=radical&bg_color=050816&title_color=38BDF8&langs_count=8&text_color=e5e7eb" alt="Top Languages"/>
       </td>
       <td>
-        <img height="200em" src="https://streak-stats.demolab.com?user=D3V1L96&theme=highcontrast&hide_border=true&background=050816&stroke=38BDF8&ring=EF4444&fire=EF4444&currStreakLabel=38BDF8&sideLabels=e5e7eb" alt="Contribution Streak"/>
+        <img height="180em" src="https://streak-stats.demolab.com?user=D3V1L96&theme=highcontrast&hide_border=true&background=050816&stroke=38BDF8&ring=EF4444&fire=EF4444&currStreakLabel=38BDF8&sideLabels=e5e7eb" alt="Contribution Streak"/>
       </td>
     </tr>
   </table>
+
+  <br/>
+
+  <!-- CONTRIBUTION GRAPH (FIXED) -->
+  <img src="https://github-contributor-stats.vercel.app/api?username=D3V1L96&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%" alt="Contribution Graph"/>
+
 </div>
 
 ---
 
-## PROFESSIONAL CONNECT
+## 📡 PROFESSIONAL CONNECT
 
 I am actively seeking opportunities to apply my skills in **AI Engineering**, **Cybersecurity**, and **Full-Stack Development**. Let's discuss how we can build resilient, intelligent systems together.
 
