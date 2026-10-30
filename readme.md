@@ -1,162 +1,358 @@
-<!-- 
-  PROFILE: TILAK KUMAR | D3V1L96
-  ROLE: AI ARCHITECT & CYBERSECURITY SPECIALIST
-  THEME: NEURAL NETWORK / HARDCORE CYBERPUNK
--->
-
 <div align="center">
 
-  <!-- 1. CINEMATIC HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=300&section=header&text=TILAK%20KUMAR&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=D3V1L96%20|%20AI%20ARCHITECT%20|%20SECURITY%20ENGINEER&descSize=24&descAlignY=65&descColor=38BDF8" width="100%" />
-
-  <!-- 2. NEURAL NETWORK ASCII ART PROFILE (NEON STYLE) -->
-  <!-- Replacing static photo with dynamic AI-themed ASCII art -->
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=0&color=38BDF8&background=000000&center=true&vCenter=true&width=600&height=150&lines=+++++++++++O+++++O++++++++++;+++++++++/+|+\+++/+|+\++++++++;++++++++O--+--O---+--O++++++++;+++++++/\++++++++++/\+++++++;++++++/++\++++++++/++\++++++;+++++O++++O++++++O++++O+++++;+++++|\++++|++++++|++++/|+++++;+++++O-+-[YOU]-+-O++++O+++++;+++++/+\++++/+\++++/+\++++++;++++O+++O+++O+++O+++O+++O++++;++++|+++++++++|+++++++++|+++++;++++O+++++++++O+++++++++O+++++" alt="Neural Network Profile" />
-  
-  <br/>
-
-  <!-- 3. HARDCORE HACKING TERMINAL (ANIMATED) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=800&color=EF4444&background=0D1117&center=false&vCenter=false&width=800&height=200&lines=$+sudo+nmap+-sS+-sV+-O+--script=vuln+target_infrastructure;>Starting+Nmap+7.94+(+https://nmap.org+);>PORT+++++STATE+SERVICE++VERSION;>22/tcp+++open++ssh++++++OpenSSH+8.9p1;>80/tcp+++open++http+++++Apache/2.4.52;>[!]+CRITICAL+VULNERABILITY+DETECTED:+CVE-2024-XXXX;>[+]+Generating+exploit+mitigation+patch...;>[✓]+Patch+applied+successfully;$+python3+hex_core.py+--mode+devil+--target=analysis;>[*]+Initializing+HEX+Core+Engine+v3.0...;>[!]+DEVIL+MODE+ACTIVATED+-+Interface:+BLOOD+RED;>[*]+Shodan+API+reconnaissance+initiated...;>[✓]+Analysis+complete.+47+threats+neutralized." alt="Hacking Terminal" />
-
-  <br/>
-
-  <!-- 4. DYNAMIC VALUE PROPOSITION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Resilient+AI+Systems;Securing+Critical+Infrastructure;Automating+Complex+Workflows;Building+for+Global+Scale" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- 5. PREMIUM STATUS BADGES -->
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=D3V1L96&label=PROFILE_VIEWS&color=0E7490&style=for-the-badge" alt="Profile Views"/>
-    <img src="https://img.shields.io/badge/STATUS-ELITE_OPERATOR-10B981?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/LICENSE-MIT_%2F_APACHE_2.0-F59E0B?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License"/>
-    <img src="https://img.shields.io/badge/HIRE_ME-AVAILABLE_FOR_IMPACT-EF4444?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me"/>
-  </div>
-
-</div>
-
----
-
-## 🏛️ ARCHITECTURAL PHILOSOPHY
-
-> *"Software is not just code; it is a contract between logic and reality. I build systems that honor that contract through security, scalability, and precision."*
-
-I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence & Machine Learning** with a dual focus on **Offensive Security** and **Intelligent Automation**. My work bridges the gap between theoretical AI models and production-ready, secure applications.
-
-### ⚡ CORE COMPETENCIES MATRIX
-
-| DOMAIN | TECHNOLOGIES & FRAMEWORKS | BUSINESS IMPACT |
-| :--- | :--- | :--- |
-| **ARTIFICIAL INTELLIGENCE** | `TensorFlow`, `PyTorch`, `LangChain`, `Ollama`, `Silero TTS` | Developing privacy-centric, offline-capable intelligent agents that reduce cloud costs by 40%. |
-| **CYBERSECURITY & OSINT** | `Shodan API`, `Whois`, `Network Recon`, `Ethical Hacking` | Building authorized reconnaissance tools that identify vulnerabilities before attackers do. |
-| **SOFTWARE ENGINEERING** | `Python`, `Rust`, `TypeScript`, `React`, `Node.js` | Creating high-performance, type-safe full-stack solutions with 99.9% uptime reliability. |
-| **DATA OPERATIONS** | `Pandas`, `NumPy`, `Power BI`, `SQL` | Transforming raw data into actionable strategic insights via automated ETL pipelines. |
-
----
-
-## 🚀 FLAGSHIP PROJECTS: SYSTEMS IN PRODUCTION
-
-### 1. HEX: LOCAL-FIRST AI AUTOMATION ENGINE
-*A modular, privacy-preserving desktop assistant powered by local Large Language Models.*
-
-*   **Core Engine:** Python-based orchestration layer integrating **Ollama** for local inference.
-*   **Voice Interface:** Implemented **Silero TTS** for high-quality, offline natural language synthesis (supporting English/Hinglish contexts).
-*   **Security Module:** Integrated **Shodan API** wrappers for authorized network reconnaissance.
-*   **UI/UX:** Dynamic "Devil Mode" interface switching to blood-red themes for high-intensity tasks.
-*   **Repository:** [View Code](https://github.com/D3V1L96/HEX-Cognitive-Weapon.git)
-*   **Live Demo:** [Visit Site](https://d3v1l96.github.io/HEX-Cognitive-Weapon/)
-
-### 2. HOUND v2.0: CINEMATIC OSINT FRAMEWORK
-*An advanced, automated Open-Source Intelligence (OSINT) engine designed for deep digital reconnaissance and threat analysis.*
-
-*   **Core Functionality:** Automates the collection and correlation of disparate data points from public sources to build comprehensive digital footprints of targets.
-*   **Intelligence Engine:** Integrates multiple APIs and scraping modules to perform real-time WHOIS lookups, DNS enumeration, and social media footprinting without manual intervention.
-*   **Data Visualization & Analysis:** Transforms raw, unstructured intelligence data into an interactive 3D node network, allowing analysts to visually identify hidden connections and patterns between entities.
-*   **Performance Architecture:** Built with a high-concurrency backend to handle massive data streams, ensuring sub-second response times even during complex multi-vector investigations.
-*   **Live Demo:** [Visit Site](https://d3v1l96.github.io/Hound-osint/)
-*   **Repository:** [View Code](https://github.com/D3V1L96/Hound-osint.git)
-
-### 3. APPLIED MACHINE LEARNING SUITE
-*Demonstrated proficiency in data preprocessing, model training, and evaluation.*
-
-*   **Rice Disease Classifier:** CNN implementation using TensorFlow/Keras, achieving **94% accuracy** in identifying plant pathologies.
-*   **YouTube Sentiment Analysis:** NLP pipeline processing video comments to gauge public sentiment using LSTM/RNN architectures.
-
----
-
-## 🛠️ FULL TECH STACK ECOSYSTEM
-
-<div align="center">
-  
-  ### LANGUAGES & RUNTIMES
-  <img src="https://skillicons.dev/icons?i=py,rs,ts,js,go,cpp,bash&perline=7" />
-
-  ### ARTIFICIAL INTELLIGENCE & DATA
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,pandas,numpy,jupyter,sklearn,huggingface&perline=7" />
-
-  ### SECURITY & DEVOPS
-  <img src="https://skillicons.dev/icons?i=kali,docker,kubernetes,linux,vim,postman,aws,gcp&perline=7" />
-
-  ### FRONTEND & VISUALIZATION
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass,threejs,figma&perline=7" />
-
-  ### DATABASES & BACKEND
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,nodejs,express,spring&perline=7" />
-
-</div>
-
----
-
-## 📊 GITHUB ACTIVITY & CONSISTENCY
-
-<div align="center">
-  
-  <!-- MAIN STATS CARD -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D3V1L96&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=050816&title_color=38BDF8&icon_color=EF4444&text_color=e5e7eb" alt="GitHub Stats"/>
-  
-  <br/><br/>
-
-  <!-- TOP LANGUAGES & STREAK -->
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3V1L96&layout=compact&hide_border=true&theme=radical&bg_color=050816&title_color=38BDF8&langs_count=8&text_color=e5e7eb" alt="Top Languages"/>
-      </td>
-      <td>
-        <img height="180em" src="https://streak-stats.demolab.com?user=D3V1L96&theme=highcontrast&hide_border=true&background=050816&stroke=38BDF8&ring=EF4444&fire=EF4444&currStreakLabel=38BDF8&sideLabels=e5e7eb" alt="Contribution Streak"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- CONTRIBUTION GRAPH (FIXED) -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=D3V1L96&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 📡 PROFESSIONAL CONNECT
-
-I am actively seeking opportunities to apply my skills in **AI Engineering**, **Cybersecurity**, and **Full-Stack Development**. Let's discuss how we can build resilient, intelligent systems together.
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilak-kumar-security/)
-  [![Email](https://img.shields.io/badge/GMAIL-DIRECT_INQUIRY-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tilakkumar4946@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW_WORK-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://d3v1l96.github.io/portfolio/)
-  [![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE_REPOS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3V1L96)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0F172A,100:075985&text=TILAK%20KUMAR&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20CYBERSECURITY%20%7C%20AUTOMATION&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems.;Engineering+Privacy-First+AI.;Exploring+Offensive+Security.;Automating+Complex+Workflows.;Turning+Ideas+Into+Working+Systems." />
+
+<br/><br/>
+
+<a href="https://github.com/D3V1L96">
+<img src="https://img.shields.io/badge/GITHUB-D3V1L96-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=D3V1L96&style=for-the-badge&color=075985&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SECURITY-0D1117?style=for-the-badge&logo=target&logoColor=38BDF8"/>
+
+<br/><br/>
+
+**Think. Engineer. Secure. Automate.**
+
+</div>
+
+---
+
+## 01 / ABOUT ME
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Tilak Kumar"
+        self.alias = "D3V1L96"
+        self.focus = [
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Python Development",
+            "Intelligent Automation"
+        ]
+
+        self.currently_building = [
+            "Local-First AI Systems",
+            "Autonomous OSINT Tools",
+            "Security-Oriented Applications"
+        ]
+
+        self.philosophy = "Build with logic. Secure by design."
+
+    def objective(self):
+        return "Engineering intelligent systems that solve real problems."
+```
+
+I'm a technology enthusiast focused on **AI engineering, cybersecurity, and intelligent automation**.
+
+I enjoy building practical systems that combine software engineering, AI capabilities, security principles, and automation.
+
+My interests extend beyond writing code. I enjoy understanding system architecture, debugging complex problems, experimenting with emerging technologies, and turning concepts into functional applications.
+
+**My engineering interests:**
+
+* Local AI and intelligent desktop assistants.
+* AI-powered automation and system orchestration.
+* Ethical hacking and vulnerability assessment.
+* OSINT and digital reconnaissance.
+* Privacy-focused software architecture.
+* Python-based application development.
+
+---
+
+## 02 / ENGINEERING DOMAINS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ARTIFICIAL INTELLIGENCE
+
+* Local LLM Integration
+* AI Agent Development
+* Prompt Engineering
+* Model Integration
+* Computer Vision
+* NLP Fundamentals
+* Intelligent Automation
+
+</td>
+<td width="50%" valign="top">
+
+### CYBERSECURITY
+
+* Ethical Hacking
+* Network Reconnaissance
+* Vulnerability Assessment
+* OSINT
+* Web Application Security
+* Linux Security
+* OWASP Top 10
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### SOFTWARE ENGINEERING
+
+* Python Development
+* API Integration
+* Backend Development
+* Application Architecture
+* Automation Scripts
+* Database Integration
+* Debugging & Optimization
+
+</td>
+<td width="50%" valign="top">
+
+### DATA & TECHNOLOGY
+
+* SQL
+* NumPy
+* Pandas
+* Data Processing
+* Machine Learning Fundamentals
+* Git & GitHub
+* Linux Environments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / FEATURED ENGINEERING PROJECTS
+
 <div align="center">
-  <sub><strong>BUILT WITH PRECISION. SECURED BY DESIGN. LICENSED FOR THE WORLD.</strong></sub>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%" />
+
+### PROJECT 01 — HEX
+
+<img src="https://img.shields.io/badge/PROJECT-HEX-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CATEGORY-LOCAL%20AI-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+# H.E.X
+
+### Cognitive AI & Automation Engine
+
+**"Control the system. Understand the intelligence."**
+
+</div>
+
+HEX is a local-first AI assistant project designed around intelligent interaction, system automation, and modular architecture.
+
+**Core capabilities**
+
+* Local LLM integration and AI-powered conversations.
+* Modular Python-based architecture.
+* Intelligent tool orchestration.
+* Desktop and system interaction.
+* Persistent contextual memory.
+* Voice interaction and automation.
+* Configurable AI inference parameters.
+
+**Engineering focus:** Local execution, modularity, responsiveness, and system-level automation.
+
+**Technologies:** Python, Ollama, ChromaDB (optional integration), API integrations.
+
+<div align="center">
+
+<a href="https://github.com/D3V1L96/HEX-Cognitive-Weapon">
+<img src="https://img.shields.io/badge/EXPLORE%20SOURCE-HEX-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://d3v1l96.github.io/HEX-Cognitive-Weapon/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-VISIT-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### PROJECT 02 — HOUND v2.0
+
+<img src="https://img.shields.io/badge/PROJECT-HOUND-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CATEGORY-OSINT-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+# HOUND v2.0
+
+### Autonomous OSINT Platform
+
+**"Intelligence through correlation."**
+
+</div>
+
+HOUND is an OSINT platform focused on automating digital reconnaissance and correlating publicly available intelligence.
+
+**Core capabilities**
+
+* Multi-source reconnaissance.
+* DNS and WHOIS intelligence gathering.
+* Public digital footprint analysis.
+* Concurrent reconnaissance workflows.
+* Evidence correlation and persistent storage.
+* AI-assisted intelligence analysis.
+
+**Engineering focus:** Reconnaissance automation, data correlation, modular investigation workflows, and structured intelligence collection.
+
+**Technologies:** Python 3.11+, Ollama, SQLite, OSINT APIs and automation libraries.
+
+<div align="center">
+
+<a href="https://github.com/D3V1L96/Hound-osint">
+<img src="https://img.shields.io/badge/EXPLORE%20SOURCE-HOUND-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://d3v1l96.github.io/Hound-osint/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-VISIT-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+</a>
+
+</div>
+
+---
+
+### PROJECT 03 — AUTHENTICITYAI
+
+**AI-Powered Media Authenticity Analysis**
+
+A privacy-focused deepfake detection project exploring multimodal media analysis.
+
+**Key development areas:**
+
+* Image and video analysis.
+* Audio authenticity analysis.
+* Computer vision integration.
+* AI-based classification.
+* Local processing and privacy-oriented architecture.
+
+**Technologies:** Python, OpenCV, PyTorch ecosystem, Wav2Vec2.
+
+---
+
+### PROJECT 04 — SMARTPASS PRO
+
+**Digital Gate Pass Management System**
+
+A role-based gate-pass management application designed to digitize institutional entry and exit workflows.
+
+**Key development areas:**
+
+* Role-based access control.
+* Digital approval workflows.
+* QR-based verification.
+* OTP-based verification.
+* Real-time status updates.
+* Audit logging.
+
+**Technologies:** HTML, CSS, JavaScript, Node.js, Express, Socket.IO, PostgreSQL.
+
+---
+
+## 04 / TECHNOLOGY ECOSYSTEM
+
+<div align="center">
+
+### PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash,sql&theme=dark&perline=6"/>
+
+### AI / MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=6"/>
+
+### CYBERSECURITY / ENVIRONMENTS
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,docker,git,github&theme=dark&perline=6"/>
+
+### BACKEND / DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis&theme=dark&perline=6"/>
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,powershell&theme=dark&perline=6"/>
+
+</div>
+
+---
+
+## 05 / GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=D3V1L96&show_icons=true&hide_border=true&bg_color=050816&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3V1L96&layout=compact&hide_border=true&bg_color=050816&title_color=38BDF8&text_color=E2E8F0&langs_count=8"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=D3V1L96&hide_border=true&background=050816&ring=38BDF8&fire=EF4444&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3V1L96&bg_color=050816&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 06 / CURRENT ENGINEERING DIRECTION
+
+I'm continuously exploring and improving my understanding of:
+
+* Local and privacy-preserving AI architectures.
+* Intelligent agents and tool orchestration.
+* AI-assisted cybersecurity workflows.
+* Automated reconnaissance and OSINT.
+* Secure application development.
+* Performance optimization and system design.
+
+**Current mindset:** Understand the architecture before building the feature. Understand the vulnerability before claiming security.
+
+---
+
+## 07 / LET'S CONNECT
+
+<div align="center">
+
+### OPEN TO LEARNING, COLLABORATION & OPPORTUNITIES
+
+Interested in discussing AI engineering, cybersecurity, automation, or building something technically challenging?
+
+<br/>
+
+<a href="https://www.linkedin.com/in/tilak-kumar-security/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tilakkumar4946@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://d3v1l96.github.io/portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/D3V1L96">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+---
+
+**ENGINEERED WITH CURIOSITY. BUILT WITH PRECISION. SECURED BY DESIGN.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:075985,50:0F172A,100:050816&section=footer" width="100%"/>
+
 </div>
