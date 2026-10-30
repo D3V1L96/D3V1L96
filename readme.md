@@ -5,35 +5,29 @@
 
 <div align="center">
 
-  <!-- 1. CINEMATIC HEADER -->
+  <!-- 1. CINEMATIC HEADER WITH WAVE ANIMATION -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=300&section=header&text=TILAK%20KUMAR&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=D3V1L96%20|%20AI%20ARCHITECT%20|%20SECURITY%20ENGINEER&descSize=24&descAlignY=65&descColor=38BDF8" width="100%" />
 
-  <!-- 2. PROFILE PHOTO -->
+  <!-- 2. PROFILE PHOTO WITH GLOWING NEON FRAME -->
   <br/>
   <img src="./tilak.jpg" alt="Tilak Kumar" width="200" height="200" style="border-radius: 50%; border: 4px solid #38BDF8; box-shadow: 0 0 25px rgba(56, 189, 248, 0.6);" />
   
   <br/><br/>
 
-  <!-- 3. ANIMATED HACKING TERMINAL (OPTIMIZED) -->
-  <!-- Part 1: Identity & Skills -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=800&color=10B981&background=0D1117&center=false&vCenter=false&width=800&height=150&lines=$+whoami+%26%26+echo+'---ACCESS+GRANTED---';>+Tilak+Kumar+%7C+AI+Engineer+%26+CyberSec+Specialist;>+Clearance:+ELITE+%7C+Status:+ACTIVE;$+cat+/etc/skills.json+%7C+jq+'.expertise';>+%5B"AI"+%2C+"Security"+%2C+"OSINT"+%2C+"Full-Stack"%5D" alt="Terminal Part 1" />
-  
-  <!-- Part 2: Hacking Simulation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=800&color=10B981&background=0D1117&center=false&vCenter=false&width=800&height=150&lines=$+nmap+-sS+-sV+target_infrastructure;>PORT+++++STATE+SERVICE++VERSION;>22/tcp+++open++ssh++++++OpenSSH+8.9p1;>[!]+VULNERABILITY+DETECTED:+CVE-2024-XXXX;>[+]+Generating+exploit+mitigation+patch...;>[✓]+Patch+applied+successfully" alt="Terminal Part 2" />
-
-  <!-- Part 3: HEX Core Activation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=800&color=10B981&background=0D1117&center=false&vCenter=false&width=800&height=150&lines=$+python3+hex_core.py+--mode+devil;>[*]+Initializing+HEX+Core+Engine+v3.0...;>[*]+Loading+Ollama+LLM+modules...;>[!]+DEVIL+MODE+ACTIVATED+-+Interface:+BLOOD+RED;>[*]+Shodan+API+reconnaissance+initiated...;>[✓]+Analysis+complete.+47+threats+identified." alt="Terminal Part 3" />
+  <!-- 3. SINGLE POWERFUL ANIMATED TERMINAL BANNER -->
+  <!-- Simplified for 100% Loading Reliability -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=10B981&background=0D1117&center=true&vCenter=true&width=800&height=60&lines=SYSTEM+ACCESS:+GRANTED;+USER:+TILAK+KUMAR;+ROLE:+ELITE+OPERATOR;+STATUS:+READY+FOR+DEPLOYMENT" alt="System Status" />
 
   <br/>
 
-  <!-- 4. DYNAMIC VALUE PROPOSITION -->
+  <!-- 4. DYNAMIC VALUE PROPOSITION (ANIMATED TEXT) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Resilient+AI+Systems;Securing+Critical+Infrastructure;Automating+Complex+Workflows;Building+for+Global+Scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Engineering+Resilient+AI+Systems;Securing+Critical+Infrastructure;Automating+Complex+Workflows;Building+for+Global+Scale;Architecting+Privacy-First+Solutions" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- 5. PREMIUM STATUS BADGES -->
+  <!-- 5. PREMIUM STATUS & HIRE BADGES -->
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=D3V1L96&label=PROFILE_VIEWS&color=0E7490&style=for-the-badge" alt="Profile Views"/>
     <img src="https://img.shields.io/badge/STATUS-ELITE_OPERATOR-10B981?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Status"/>
