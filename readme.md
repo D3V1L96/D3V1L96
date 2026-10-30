@@ -66,6 +66,8 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 *   **Security Module:** Integrated **Shodan API** wrappers for authorized network reconnaissance.
 *   **UI/UX:** Dynamic "Devil Mode" interface switching to blood-red themes for high-intensity tasks.
 *   **Repository:** [View Code](https://github.com/D3V1L96)
+*   **Live Demo:** [Visit Site](https://d3v1l96.github.io/HEX-Cognitive-wepon/)
+
 
 ### 2. HOUND v2.0: CINEMATIC OSINT FRAMEWORK
 *A visually immersive, node-based intelligence gathering platform for lawful research.*
