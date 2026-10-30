@@ -65,18 +65,18 @@ I am **Tilak Kumar**, a Computer Science specialist in **Artificial Intelligence
 *   **Voice Interface:** Implemented **Silero TTS** for high-quality, offline natural language synthesis (supporting English/Hinglish contexts).
 *   **Security Module:** Integrated **Shodan API** wrappers for authorized network reconnaissance.
 *   **UI/UX:** Dynamic "Devil Mode" interface switching to blood-red themes for high-intensity tasks.
-*   **Repository:** [View Code](https://github.com/D3V1L96)
+*   **Repository:** [View Code](https://github.com/D3V1L96/HEX-Cognitive-Weapon.git)
 *   **Live Demo:** [Visit Site](https://d3v1l96.github.io/HEX-Cognitive-Weapon/)
 
-
 ### 2. HOUND v2.0: CINEMATIC OSINT FRAMEWORK
-*A visually immersive, node-based intelligence gathering platform for lawful research.*
+*An advanced, automated Open-Source Intelligence (OSINT) engine designed for deep digital reconnaissance and threat analysis.*
 
-*   **Frontend:** Built with **React + TypeScript** for type safety and component reusability.
-*   **Visualization:** Utilized **Three.js (React Three Fiber)** to render an interactive 3D wolf centerpiece surrounded by a responsive node network.
-*   **Animation System:** Implemented **GSAP** and **Framer Motion** for deliberate, cinematic transitions.
+*   **Core Functionality:** Automates the collection and correlation of disparate data points from public sources to build comprehensive digital footprints of targets.
+*   **Intelligence Engine:** Integrates multiple APIs and scraping modules to perform real-time WHOIS lookups, DNS enumeration, and social media footprinting without manual intervention.
+*   **Data Visualization & Analysis:** Transforms raw, unstructured intelligence data into an interactive 3D node network, allowing analysts to visually identify hidden connections and patterns between entities.
+*   **Performance Architecture:** Built with a high-concurrency backend to handle massive data streams, ensuring sub-second response times even during complex multi-vector investigations.
 *   **Live Demo:** [Visit Site](https://d3v1l96.github.io/Hound-osint/)
-
+*   **Repository:** [View Code](https://github.com/D3V1L96/Hound-osint.git)
 ### 3. APPLIED MACHINE LEARNING SUITE
 *Demonstrated proficiency in data preprocessing, model training, and evaluation.*
 
