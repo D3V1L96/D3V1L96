@@ -1,91 +1,137 @@
+<!--
+=========================================================
+  D3V1L96 | NEURAL SYSTEMS v3.0
+  ENGINEERING IDENTITY: TILAK KUMAR
+  DOMAINS: AI ENGINEERING | CYBERSECURITY | AUTOMATION
+  DESIGN: OBSIDIAN BLACK | ELECTRIC CYAN | DEEP BLUE
+=========================================================
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0F172A,100:075985&text=TILAK%20KUMAR&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20CYBERSECURITY%20%7C%20AUTOMATION&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<!-- CINEMATIC HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,40:0F172A,100:075985&text=D3V1L96&fontSize=85&fontColor=FFFFFF&fontAlignY=38&desc=NEURAL%20SYSTEMS%20%2F%2F%20ENGINEERING%20INTELLIGENCE&descSize=16&descColor=38BDF8&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems.;Engineering+Privacy-First+AI.;Exploring+Offensive+Security.;Automating+Complex+Workflows.;Turning+Ideas+Into+Working+Systems." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=Artificial+Intelligence+%2F%2F+Engineering;Cybersecurity+%2F%2F+Research;Python+Development+%2F%2F+Automation;Building+Systems.+Solving+Problems.+Securing+Technology."/>
 
 <br/><br/>
 
-<a href="https://github.com/D3V1L96">
-<img src="https://img.shields.io/badge/GITHUB-D3V1L96-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=D3V1L96&style=for-the-badge&color=075985&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SECURITY-0D1117?style=for-the-badge&logo=target&logoColor=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=D3V1L96&style=for-the-badge&color=075985&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20CYBERSECURITY-0B1220?style=for-the-badge&logo=target&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/BUILDING-REAL%20SYSTEMS-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 
 <br/><br/>
 
-**Think. Engineer. Secure. Automate.**
+**AI ENGINEERING · CYBERSECURITY · INTELLIGENT AUTOMATION**
+
+*Think Beyond Code. Engineer Beyond Limits.*
 
 </div>
 
 ---
 
-## 01 / ABOUT ME
+<div align="center">
+
+### `01 / SYSTEM IDENTITY`
+
+</div>
+
+## About Me
+
+I'm **Tilak Kumar**, also known as **D3V1L96**.
+
+An aspiring AI and cybersecurity engineer interested in building intelligent applications, privacy-focused AI systems, security-oriented tools, and automated workflows.
+
+I enjoy understanding how systems work internally, experimenting with emerging technologies, debugging complex problems, and transforming ideas into functional software.
+
+My approach combines three engineering disciplines:
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/01-AI-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+
+**INTELLIGENCE**
+
+Local AI, intelligent agents, machine learning and AI-powered applications.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/02-SECURITY-0B1220?style=for-the-badge&logo=kalilinux&logoColor=38BDF8"/>
+
+**PROTECTION**
+
+Ethical hacking, reconnaissance, vulnerability assessment and application security.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/03-AUTOMATION-0B1220?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+
+**EXECUTION**
+
+Python development, intelligent workflows, system integration and automation.
+
+</td>
+</tr>
+</table>
 
 ```python
-class Developer:
+class D3V1L96:
 
-    def __init__(self):
-        self.name = "Tilak Kumar"
-        self.alias = "D3V1L96"
-        self.focus = [
-            "Artificial Intelligence",
-            "Cybersecurity",
-            "Python Development",
-            "Intelligent Automation"
-        ]
+    identity = "Tilak Kumar"
 
-        self.currently_building = [
-            "Local-First AI Systems",
-            "Autonomous OSINT Tools",
-            "Security-Oriented Applications"
-        ]
+    specialization = [
+        "AI Engineering",
+        "Cybersecurity",
+        "Python Development",
+        "Intelligent Automation"
+    ]
 
-        self.philosophy = "Build with logic. Secure by design."
+    engineering_philosophy = (
+        "Understand the system. "
+        "Engineer the solution. "
+        "Secure the execution."
+    )
 
-    def objective(self):
-        return "Engineering intelligent systems that solve real problems."
+    def mission(self):
+        return "Build technology that solves real problems."
 ```
-
-I'm a technology enthusiast focused on **AI engineering, cybersecurity, and intelligent automation**.
-
-I enjoy building practical systems that combine software engineering, AI capabilities, security principles, and automation.
-
-My interests extend beyond writing code. I enjoy understanding system architecture, debugging complex problems, experimenting with emerging technologies, and turning concepts into functional applications.
-
-**My engineering interests:**
-
-* Local AI and intelligent desktop assistants.
-* AI-powered automation and system orchestration.
-* Ethical hacking and vulnerability assessment.
-* OSINT and digital reconnaissance.
-* Privacy-focused software architecture.
-* Python-based application development.
 
 ---
 
-## 02 / ENGINEERING DOMAINS
+<div align="center">
+
+### `02 / ENGINEERING CAPABILITIES`
+
+</div>
+
+## Technical Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ARTIFICIAL INTELLIGENCE
+### Artificial Intelligence
 
 * Local LLM Integration
 * AI Agent Development
 * Prompt Engineering
-* Model Integration
-* Computer Vision
-* NLP Fundamentals
-* Intelligent Automation
+* AI Tool Orchestration
+* Computer Vision Fundamentals
+* Natural Language Processing
+* Machine Learning Fundamentals
+* Privacy-First AI Applications
 
 </td>
 <td width="50%" valign="top">
 
-### CYBERSECURITY
+### Cybersecurity
 
 * Ethical Hacking
 * Network Reconnaissance
@@ -94,35 +140,37 @@ My interests extend beyond writing code. I enjoy understanding system architectu
 * Web Application Security
 * Linux Security
 * OWASP Top 10
+* Security Analysis Fundamentals
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### SOFTWARE ENGINEERING
+### Software Engineering
 
 * Python Development
+* JavaScript
 * API Integration
 * Backend Development
 * Application Architecture
 * Automation Scripts
-* Database Integration
 * Debugging & Optimization
+* Git & Version Control
 
 </td>
 <td width="50%" valign="top">
 
-### DATA & TECHNOLOGY
+### Data & Infrastructure
 
 * SQL
-* NumPy
-* Pandas
+* PostgreSQL
+* SQLite
+* Pandas & NumPy
 * Data Processing
-* Machine Learning Fundamentals
-* Git & GitHub
 * Linux Environments
+* Database Integration
+* System Administration Fundamentals
 
 </td>
 </tr>
@@ -130,47 +178,78 @@ My interests extend beyond writing code. I enjoy understanding system architectu
 
 ---
 
-## 03 / FEATURED ENGINEERING PROJECTS
+<div align="center">
+
+### `03 / FLAGSHIP SYSTEMS`
+
+</div>
+
+# Featured Projects
+
+Projects built around practical engineering problems, system architecture, and experimentation.
+
+---
 
 <div align="center">
 
-### PROJECT 01 — HEX
-
-<img src="https://img.shields.io/badge/PROJECT-HEX-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CATEGORY-LOCAL%20AI-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM_01-HEX-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-LOCAL_AI-0B1220?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CORE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 # H.E.X
 
 ### Cognitive AI & Automation Engine
 
-**"Control the system. Understand the intelligence."**
+**A local-first intelligent desktop assistant.**
 
 </div>
 
-HEX is a local-first AI assistant project designed around intelligent interaction, system automation, and modular architecture.
+HEX is a modular AI assistant project focused on local AI interaction, contextual memory, voice interfaces, and system automation.
 
-**Core capabilities**
+**Key Engineering Areas**
 
-* Local LLM integration and AI-powered conversations.
-* Modular Python-based architecture.
+* Local LLM integration and inference.
+* Modular Python architecture.
 * Intelligent tool orchestration.
-* Desktop and system interaction.
-* Persistent contextual memory.
-* Voice interaction and automation.
-* Configurable AI inference parameters.
+* Contextual memory management.
+* Voice interaction and speech processing.
+* Desktop and operating system interaction.
+* Configurable AI response generation.
 
-**Engineering focus:** Local execution, modularity, responsiveness, and system-level automation.
+**Architecture Overview**
 
-**Technologies:** Python, Ollama, ChromaDB (optional integration), API integrations.
+```text
+          USER INPUT
+               |
+               v
+        INPUT PROCESSING
+               |
+               v
+           HEX BRAIN
+               |
+       +-------+-------+
+       |       |       |
+     MEMORY  REASONING TOOLS
+       |       |       |
+       +-------+-------+
+               |
+               v
+       EXECUTION ENGINE
+               |
+               v
+        RESPONSE OUTPUT
+```
+
+**Technology Stack:** Python, Ollama, ChromaDB (optional), APIs, PySide6.
 
 <div align="center">
 
 <a href="https://github.com/D3V1L96/HEX-Cognitive-Weapon">
-<img src="https://img.shields.io/badge/EXPLORE%20SOURCE-HEX-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://d3v1l96.github.io/HEX-Cognitive-Weapon/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-VISIT-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/VISIT_PROJECT-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
 </a>
 
 </div>
@@ -179,114 +258,175 @@ HEX is a local-first AI assistant project designed around intelligent interactio
 
 <div align="center">
 
-### PROJECT 02 — HOUND v2.0
-
-<img src="https://img.shields.io/badge/PROJECT-HOUND-38BDF8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CATEGORY-OSINT-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SYSTEM_02-HOUND_v2.0-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-OSINT-0B1220?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CORE-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 # HOUND v2.0
 
 ### Autonomous OSINT Platform
 
-**"Intelligence through correlation."**
+**Intelligence through reconnaissance and correlation.**
 
 </div>
 
-HOUND is an OSINT platform focused on automating digital reconnaissance and correlating publicly available intelligence.
+HOUND is an OSINT platform designed to automate digital reconnaissance and organize publicly available intelligence into structured investigation workflows.
 
-**Core capabilities**
+**Key Engineering Areas**
 
 * Multi-source reconnaissance.
-* DNS and WHOIS intelligence gathering.
+* DNS enumeration and WHOIS intelligence.
 * Public digital footprint analysis.
 * Concurrent reconnaissance workflows.
-* Evidence correlation and persistent storage.
+* Evidence correlation.
+* Persistent intelligence storage.
 * AI-assisted intelligence analysis.
 
-**Engineering focus:** Reconnaissance automation, data correlation, modular investigation workflows, and structured intelligence collection.
+**Architecture Overview**
 
-**Technologies:** Python 3.11+, Ollama, SQLite, OSINT APIs and automation libraries.
+```text
+       INVESTIGATION INPUT
+               |
+               v
+       RECONNAISSANCE ENGINE
+               |
+       +-------+-------+
+       |       |       |
+      DNS    WHOIS   OSINT
+       |       |       |
+       +-------+-------+
+               |
+               v
+       DATA CORRELATION
+               |
+               v
+       INTELLIGENCE STORE
+               |
+               v
+        AI ANALYSIS
+               |
+               v
+       STRUCTURED REPORT
+```
+
+**Technology Stack:** Python 3.11+, Ollama, SQLite, OSINT APIs and automation libraries.
 
 <div align="center">
 
 <a href="https://github.com/D3V1L96/Hound-osint">
-<img src="https://img.shields.io/badge/EXPLORE%20SOURCE-HOUND-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://d3v1l96.github.io/Hound-osint/">
-<img src="https://img.shields.io/badge/LIVE%20PROJECT-VISIT-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/VISIT_PROJECT-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/>
 </a>
 
 </div>
 
 ---
-
-### PROJECT 03 — AUTHENTICITYAI
-
-**AI-Powered Media Authenticity Analysis**
-
-A privacy-focused deepfake detection project exploring multimodal media analysis.
-
-**Key development areas:**
-
-* Image and video analysis.
-* Audio authenticity analysis.
-* Computer vision integration.
-* AI-based classification.
-* Local processing and privacy-oriented architecture.
-
-**Technologies:** Python, OpenCV, PyTorch ecosystem, Wav2Vec2.
-
----
-
-### PROJECT 04 — SMARTPASS PRO
-
-**Digital Gate Pass Management System**
-
-A role-based gate-pass management application designed to digitize institutional entry and exit workflows.
-
-**Key development areas:**
-
-* Role-based access control.
-* Digital approval workflows.
-* QR-based verification.
-* OTP-based verification.
-* Real-time status updates.
-* Audit logging.
-
-**Technologies:** HTML, CSS, JavaScript, Node.js, Express, Socket.IO, PostgreSQL.
-
----
-
-## 04 / TECHNOLOGY ECOSYSTEM
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+<img src="https://img.shields.io/badge/SYSTEM_03-AUTHENTICITYAI-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-APPLIED_AI-0B1220?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash,sql&theme=dark&perline=6"/>
+# AuthenticityAI
 
-### AI / MACHINE LEARNING
+### Multimodal Deepfake Detection
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=6"/>
+A privacy-oriented AI project exploring the detection of manipulated digital media through multimodal analysis.
 
-### CYBERSECURITY / ENVIRONMENTS
+**Key Engineering Areas**
 
-<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,docker,git,github&theme=dark&perline=6"/>
+* Image and video authenticity analysis.
+* Audio analysis using speech representations.
+* Computer vision integration.
+* AI-based classification.
+* Local media processing.
+* Structured analysis and reporting.
 
-### BACKEND / DATABASE
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis&theme=dark&perline=6"/>
-
-### DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,powershell&theme=dark&perline=6"/>
+**Technology Stack:** Python, OpenCV, PyTorch ecosystem, Wav2Vec2.
 
 </div>
 
 ---
 
-## 05 / GITHUB ANALYTICS
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM_04-SMARTPASS_PRO-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DOMAIN-FULL_STACK-0B1220?style=for-the-badge"/>
+
+# SmartPass Pro
+
+### Digital Gate Pass Management
+
+A role-based institutional gate-pass application designed to digitize approval and verification workflows.
+
+**Key Engineering Areas**
+
+* Role-based access control.
+* Digital approval workflows.
+* QR-based gate verification.
+* OTP-based verification.
+* Real-time status updates.
+* Database integration.
+* Audit logging.
+
+**Technology Stack:** HTML, CSS, JavaScript, Node.js, Express, Socket.IO, PostgreSQL.
+
+</div>
+
+---
+
+<div align="center">
+
+### `04 / TECHNOLOGY ECOSYSTEM`
+
+</div>
+
+## Technologies & Tools
+
+<div align="center">
+
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,bash&theme=dark&perline=5"/>
+
+<br/><br/>
+
+**ARTIFICIAL INTELLIGENCE**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=5"/>
+
+<br/><br/>
+
+**CYBERSECURITY & ENVIRONMENTS**
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,docker&theme=dark&perline=5"/>
+
+<br/><br/>
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark&perline=5"/>
+
+<br/><br/>
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman&theme=dark&perline=5"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `05 / GITHUB INTELLIGENCE`
+
+</div>
+
+## Development Activity
 
 <div align="center">
 
@@ -300,34 +440,55 @@ A role-based gate-pass management application designed to digitize institutional
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3V1L96&bg_color=050816&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=D3V1L96&bg_color=050816&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
 
 </div>
 
 ---
 
-## 06 / CURRENT ENGINEERING DIRECTION
+<div align="center">
 
-I'm continuously exploring and improving my understanding of:
+### `06 / ENGINEERING ROADMAP`
 
-* Local and privacy-preserving AI architectures.
-* Intelligent agents and tool orchestration.
-* AI-assisted cybersecurity workflows.
-* Automated reconnaissance and OSINT.
-* Secure application development.
-* Performance optimization and system design.
+</div>
 
-**Current mindset:** Understand the architecture before building the feature. Understand the vulnerability before claiming security.
+## What I'm Exploring
+
+```text
+[01] LOCAL AI ARCHITECTURE
+     ├── Local LLM Optimization
+     ├── AI Agent Orchestration
+     └── Contextual Memory Systems
+
+[02] CYBERSECURITY ENGINEERING
+     ├── Advanced Web Security
+     ├── Network Analysis
+     └── Automated Security Assessment
+
+[03] INTELLIGENT AUTOMATION
+     ├── Python Automation
+     ├── System Integration
+     └── AI-Assisted Workflows
+
+[04] SOFTWARE ARCHITECTURE
+     ├── Modular Application Design
+     ├── Performance Optimization
+     └── Secure Development Practices
+```
+
+**Engineering philosophy:** Understand before implementing. Test before trusting. Secure before deploying.
 
 ---
 
-## 07 / LET'S CONNECT
-
 <div align="center">
 
-### OPEN TO LEARNING, COLLABORATION & OPPORTUNITIES
+### `07 / CONNECTION ESTABLISHED`
 
-Interested in discussing AI engineering, cybersecurity, automation, or building something technically challenging?
+# Let's Build Something Meaningful.
+
+I'm interested in connecting with developers, AI enthusiasts, cybersecurity professionals, and engineering teams.
+
+Open to technical discussions, collaborative projects, internships, and learning opportunities.
 
 <br/>
 
@@ -340,7 +501,7 @@ Interested in discussing AI engineering, cybersecurity, automation, or building 
 </a>
 
 <a href="https://d3v1l96.github.io/portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0B1220?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
 
 <a href="https://github.com/D3V1L96">
@@ -349,10 +510,10 @@ Interested in discussing AI engineering, cybersecurity, automation, or building 
 
 <br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:075985,50:0F172A,100:020617&section=footer"/>
 
-**ENGINEERED WITH CURIOSITY. BUILT WITH PRECISION. SECURED BY DESIGN.**
+**D3V1L96 // BUILT WITH CURIOSITY. ENGINEERED WITH PRECISION.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:075985,50:0F172A,100:050816&section=footer" width="100%"/>
+<sub>AI ENGINEERING · CYBERSECURITY · INTELLIGENT SYSTEMS</sub>
 
 </div>
